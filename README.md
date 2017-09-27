@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/myerscourtney/Start.svg?branch=master)](https://travis-ci.org/myerscourtney/Start)
+[![Build Status](https://travis-ci.org/courtneymyers/Start.svg?branch=master)](https://travis-ci.org/courtneymyers/Start)
 
 # Start
 
@@ -10,11 +10,11 @@ Build a new website using NPM as a build tool.
 
     **SSH**
 
-        git@github.com:myerscourtney/Start.git
+        git@github.com:courtneymyers/Start.git
 
     **HTTPS**
 
-        git clone https://github.com/myerscourtney/Start.git
+        git clone https://github.com/courtneymyers/Start.git
 
 ---
 
